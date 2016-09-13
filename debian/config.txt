@@ -1,0 +1,8 @@
+username=csimon
+password=c4r1ss130n
+host=10.0.0.144
+ahost=169.254.6.126
+port=22
+session=
+key=
+command=commands.txt
